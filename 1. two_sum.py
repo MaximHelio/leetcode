@@ -7,4 +7,4 @@ class Solution:
                 if temp == target:
                     return [i, j]
 solution = Solution()
-print(solution.twoSum(nums=[2, 7, 11, 15], target=9))
+print(solution.twoSum([2, 7, 11, 15], target=9))
